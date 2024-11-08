@@ -1,6 +1,6 @@
 ### 專長
-1. 程式(php, sql, html, css, python)
-2. 管理
+1. Program(php, sql, html, css, python)
+2. Management
 
 ### Education
 1. Fu Jen Catholic University
